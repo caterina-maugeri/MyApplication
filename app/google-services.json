@@ -8,52 +8,7 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:861844783919:android:1a4eaca48307b4061097da",
-        "android_client_info": {
-          "package_name": "com.example.caterinamaugeri.sweetsocial"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "861844783919-0un8bju7jhqi3f4v0234ksul66hbkt6c.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.caterinamaugeri.sweetsocial",
-            "certificate_hash": "b3baf8caaad2d3f0ee5609106b7028e735d2c662"
-          }
-        },
-        {
-          "client_id": "861844783919-e7pq2pvlohirbikfvru2ghkdss42bnu2.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.caterinamaugeri.sweetsocial",
-            "certificate_hash": "c252566fca47e2c4dacf5b8cb23722f97b1a10a1"
-          }
-        },
-        {
-          "client_id": "861844783919-jasqne4771rcfkau3hrbh0r9jrelbpra.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyDsYjmrQU3KYgjCTw--aONnesIT6_gkfG0"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "861844783919-jasqne4771rcfkau3hrbh0r9jrelbpra.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:861844783919:android:84e51d28c60d96ee1097da",
+        "mobilesdk_app_id": "1:861844783919:android:b940d8d90acf7d401097da",
         "android_client_info": {
           "package_name": "com.example.myapplication"
         }
